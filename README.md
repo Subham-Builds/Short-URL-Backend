@@ -51,7 +51,4 @@ A simple and efficient backend service designed to shorten long URLs, making the
 #### Does it is an fully functional app?
 No, its just an implentation of backend of Short-URL services. It can easily be hosted on POSTMAN like services for validation.
 
-#### Question 2
-
-Answer 2
 
