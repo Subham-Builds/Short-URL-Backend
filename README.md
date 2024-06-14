@@ -39,8 +39,11 @@ A simple and efficient backend service designed to shorten long URLs, making the
 
 
 ## Screenshots
+![3](https://github.com/Subham-Builds/Short-URL-Backend/assets/121431904/b294c93b-2074-439b-9aba-ce8b4f7fb4df)
+![postmnan](https://github.com/Subham-Builds/Short-URL-Backend/assets/121431904/f74eb5d3-2fe6-4827-83b6-2db69e86706b)
+![dbs](https://github.com/Subham-Builds/Short-URL-Backend/assets/121431904/85443e36-6af7-4665-97fc-3d15262201ad)
 
-![App Screenshot]()
+
 
 
 ## FAQ
