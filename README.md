@@ -20,7 +20,7 @@ A simple and efficient backend service designed to shorten long URLs, making the
  - Clone the repository:
 
 ```bash
-  git clone https://github.com/SubhammMoharana/Instagram-Clone
+  git clone https://github.com/Subham-Builds/Short-URL-Backend
 ```
  - Navigate to the folder:
 
